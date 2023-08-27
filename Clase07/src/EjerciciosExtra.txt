@@ -1,0 +1,3 @@
+Les dejo unos ejercicios para que no pierdan la práctica. Cualquier duda me consultan.
+1- Pedir al usuario un número N, introducir N cantidad de edades, mostrar el promedio de esas edades, cuántos mayores de 18 fueron ingresados y cuántos menores de 18.
+2- Imprima en pantalla las tablas de multiplicación del 1 al 10 utilizando estructuras repetitivas.

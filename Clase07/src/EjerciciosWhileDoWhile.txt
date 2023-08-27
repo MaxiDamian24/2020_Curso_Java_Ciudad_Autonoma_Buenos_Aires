@@ -1,0 +1,13 @@
+1- Realizar un ciclo While que muestre los números del 1 al 100.
+
+2- Realizar un contador inverso que cuente del 50 al 0.
+
+3- Realizar un contador que solo muestre los números pares hasta 100.
+
+4- Escribir todos los números del 100 al 0 de 7 en 7.
+
+5- Pedir números hasta que se teclee uno negativo, y mostrar la cantidad de números introducidos.
+
+6- Pedir números hasta que se teclee un 0, mostrar la suma de todos los números introducidos.
+
+7- Pedir un número N, introducir N sueldos, y mostrar el sueldo máximo.
